@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Salesperson List Fetched Successfully",
+  "data": [
+    {
+      "id": 1,
+      "name": "John Smith"
+    },
+    {
+      "id": 2,
+      "name": "Emily Johnson"
+    },
+    {
+      "id": 3,
+      "name": "Michael Brown"
+    },
+    {
+      "id": 4,
+      "name": "Sophia Davis"
+    },
+    {
+      "id": 5,
+      "name": "David Wilson"
+    }
+  ]
+}
