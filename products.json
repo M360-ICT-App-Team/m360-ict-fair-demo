@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Product Deleted Successfully",
+  "data": [
+    {
+      "id": 1,
+      "name": "Apple iPhone 15 Pro Max"
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S24 Ultra"
+    },
+    {
+      "id": 3,
+      "name": "Sony WH-1000XM5 Wireless Headphones"
+    },
+    {
+      "id": 4,
+      "name": "Dell XPS 15 Laptop"
+    },
+    {
+      "id": 5,
+      "name": "Apple Watch Series 10"
+    }
+  ]
+}
